@@ -1,4 +1,4 @@
-public class Canine inherits Animal
+public class Canine implements Animal
 {
     public void makeNoise()
     {

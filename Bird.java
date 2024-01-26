@@ -1,4 +1,4 @@
-public class Bird inherits Animal
+public class Bird implements Animal
 {
  public void makeNoise()
  {
